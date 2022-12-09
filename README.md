@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bonnemamarisia71@gmail.com or marisiabonnema@msn.com.
+- My Portfolio is live @ https://mbonnema2022.github.io/portfolio/
 
 <!---
 Mbonnema2022/Mbonnema2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
